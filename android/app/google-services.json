@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "846606492012",
+    "project_id": "goviral-8f1c7",
+    "storage_bucket": "goviral-8f1c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846606492012:android:3edaae1982066c3e579349",
+        "android_client_info": {
+          "package_name": "com.example.goviral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846606492012-ahgndkkvag92g6oelckgupc9po7tilv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goviral",
+            "certificate_hash": "8b23468de4ec17847033d1f44e126c16b09a00ba"
+          }
+        },
+        {
+          "client_id": "846606492012-8u2qtlpkq9g1dnq1uhf38g8nfpu9a10o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOGt-oYfJ3XJySptVRYhO1sPhgLMfwCIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846606492012-8u2qtlpkq9g1dnq1uhf38g8nfpu9a10o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846606492012-7b2i4fkrh5f1cjbpuuhv70nb7rqmv1hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.goviral"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
